@@ -1,6 +1,6 @@
 # Bienvenue 
 
-Cette plateforme est un lieu de ressources pour le pilotage à l'ASC.
+Cette plateforme réunit les ressources du PAP pour le pilotage à l'ASC.
 
 Vous trouverez :
 - des fiches explicatives sur des notions du Service Civique

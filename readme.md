@@ -1,4 +1,7 @@
-# ASC - TDB Lundi
+## ASC DATA - Ressources
 
-Application qui permet d'aider à l'onboarding.
-Lieux de ressources du pilotage au PAP.
+Petite application qui réunit les ressources du PAP pour le pilotage à l'ASC.
+
+On peut y trouver :
+- des fiches explicatives sur des notions du Service Civique
+- des définitions avec la possibilité de faire une recherche

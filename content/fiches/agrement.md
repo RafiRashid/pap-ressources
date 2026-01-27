@@ -2,13 +2,17 @@
 
 Un agrément correspond à la permission accordée à un organisme pour l’accueil des volontaires par l’ASC ou ses délégués territoriaux.
 
-Un organisme peut bénéficier soit d’un agrément « national » géré par l'ASC, soit d’un agrément « local ». 
+Un organisme peut bénéficier soit :
+
+- d’un agrément « national » géré par l'ASC
 
     - si l'action des volontaires s'étend sur au moins 2 régions => agrément national
 
-    - sinon => agrément local
-        - au moins 2 départements d'une région => agrément régional (délivrée par la DRAJES)
-        - sinon => agrément départemental / territorial (délivré par le SDJES)
+- soit d’un agrément « local »
+
+    - au moins 2 départements d'une région => agrément régional (délivrée par la DRAJES)
+    
+    - sinon => agrément départemental / territorial (délivré par le SDJES)
 
 ## Numéro d'agrément
 

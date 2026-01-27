@@ -1,6 +1,6 @@
 ## Rôle du PAP
 
-L'ASC suit 3 dispositifs => le Service Civique, Erasmus+ et le Corps Européen de Solidarité.
+L'ASC suit 3 dispositifs : le Service Civique, Erasmus+ et le Corps Européen de Solidarité.
 
 Le pôle « Agrément et Pilotage » (PAP) est un pôle métier ayant un rôle central à l'Agence : 
 

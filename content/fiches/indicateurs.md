@@ -16,12 +16,12 @@ Le **nombre de contrats validés** correspond au nombre réel de volontaire accu
 
 Il existe deux façons pour comptabiliser annuellement le nombre de contrats validés, l’un procédant par une analyse en « flux » et l’autre via une analyse en « stock ».
 
-=> Le **flux** d’une année n correspond au nombre de volontaires débutant leur mission sur une année n tandis que le **stock** d’une année n renvoie au nombre de volontaires ayant réalisé au moins un jour de mission sur une année n. Autrement dit, le stock d’une année n englobe le flux de volontaires d’une année n ainsi que le nombre de volontaires ayant débuté leur mission à l’année n-1 et dont la fin est à l’année n.
+Le **flux** d’une année n correspond au nombre de volontaires débutant leur mission sur une année n tandis que le **stock** d’une année n renvoie au nombre de volontaires ayant réalisé au moins un jour de mission sur une année n. Autrement dit, le stock d’une année n englobe le flux de volontaires d’une année n ainsi que le nombre de volontaires ayant débuté leur mission à l’année n-1 et dont la fin est à l’année n.
 (ex : stock 1er janvier = nb de mission en cours au 1er janvier, fin du contrat peut etre dépassé)
 
 ### Taux de réalisation
 
 Le **taux de réalisation** = nombre de contrats validés (en flux) /  nombre de postes agréés
 
-=> Il informe sur le taux de complétude des postes agréés des organismes d’accueil et permet de connaître les capacités d’accueil de chaque organisme. S’il est proche de 100 %, alors c’est que l’organisme est soit à son maximum, soit qu’il a peut-être la possibilité d’accueillir plus. À l’inverse, s’il est bas, c’est que les objectifs étaient trop importants et ont été peut-être surévalués.
+Il informe sur le taux de complétude des postes agréés des organismes d’accueil et permet de connaître les capacités d’accueil de chaque organisme. S’il est proche de 100 %, alors c’est que l’organisme est soit à son maximum, soit qu’il a peut-être la possibilité d’accueillir plus. À l’inverse, s’il est bas, c’est que les objectifs étaient trop importants et ont été peut-être surévalués.
 

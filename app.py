@@ -17,8 +17,8 @@ principes = st.Page("pages/Principes.py", title="Principes du SC")
 asc = st.Page("pages/ASC.py", title="Agence du Service Civique (ASC)")
 asp = st.Page("pages/ASP.py", title="Agence de Service et de Paiement (ASP)")
 volontaire = st.Page("pages/Volontaire.py", title="Volontaires")
-service_deconcentres = st.Page("pages/Services_deconcentres.py", title="Services déconcentrés")
-oa = st.Page("pages/organisme_accueil.py", title="Organisme d'accueil")
+service_deconcentres = st.Page("pages/ServicesDeconcentres.py", title="Services déconcentrés")
+oa = st.Page("pages/OrganismeAccueil.py", title="Organisme d'accueil")
 
 # Fiches
 agrement = st.Page("pages/Agrement.py", title="Agrément")
